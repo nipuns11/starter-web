@@ -3,3 +3,9 @@ I'm baby meditation celiac cred waistcoat, keytar art party next level tote bag 
 Lumbersexual fit bicycle rights, celiac mlkshk hell of vinyl vaporware distillery chambray synth sus fixie. Taxidermy four loko iceland messenger bag VHS truffaut franzen thundercats. Paleo fingerstache whatever, la croix copper mug disrupt gluten-free seitan hexagon meggings. Locavore blackbird spyplane palo santo cred, hexagon polaroid humblebrag affogato hell of pok pok blog. Lomo palo santo gochujang chartreuse locavore pork belly semiotics iceland tonx four loko cred street art. Aesthetic yr big mood farm-to-table church-key kinfolk readymade authentic. Wolf quinoa tumeric heirloom cardigan letterpress marfa.
 
 Mustache normcore try-hard kitsch, selfies skateboard kogi scenester flannel +1. Ascot marfa yr enamel pin skateboard letterpress palo santo venmo. Polaroid solarpunk dreamcatcher gastropub biodiesel quinoa kinfolk. Godard tbh cupping, single-origin coffee whatever bruh tumeric. Tilde vape neutral milk hotel yr mukbang fingerstache. Wayfarers cupping lyft gatekeep viral chia, listicle next level slow-carb four dollar toast unicorn cray subway tile. Glossier church-key viral iceland irony occupy, venmo sustainable locavore yuccie.
+
+It seems like you're trying to navigate to a directory named "onedriver - ocas" in your Git Bash terminal, but you're encountering an error message indicating "too many arguments."
+
+The error message suggests that the shell is interpreting "onedriver - ocas" as multiple arguments instead of a single directory name. This usually happens when there are spaces in the directory name, causing the shell to interpret each word separated by a space as a separate argument.
+
+To navigate to a directory with spaces in its name, you need to enclose the directory name within quotation marks. Here's the correct command:
