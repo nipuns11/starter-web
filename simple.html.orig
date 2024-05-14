@@ -6,11 +6,6 @@
 		body {
 			padding-top: 50px;
 			padding-bottom: 20px;
-<<<<<<< HEAD
-			padding-top: 50px;
-=======
-			padding-side: 20 px;
->>>>>>> realwork
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -19,11 +14,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content modification copyright
+<<<<<<< HEAD
+			Just some content modification copyright hey hey hey
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy; Company 2014 hey hye hye</p>
+=======
+			Just some content modification copyrightascascasc
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014 ascascca</p>
+>>>>>>> 0e4cc14 (fb for featuer branch)
 	</footer>
 </body>
 </html>
